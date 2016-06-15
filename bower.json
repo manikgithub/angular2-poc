@@ -1,0 +1,21 @@
+{
+  "name": "angular2-poc",
+  "authors": [
+    "Manik Repaka"
+  ],
+  "description": "angular2-poc",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "traceur-runtime": "^0.0.111"
+  }
+}
